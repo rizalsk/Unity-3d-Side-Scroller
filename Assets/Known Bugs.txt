@@ -1,0 +1,14 @@
+﻿
+Active quest id null after killing monster
+
+
+
+-OK- After  quest is completed, it can be accepted from quest book
+
+
+
+
+
+
+
+Jump Sometimes fall through floor

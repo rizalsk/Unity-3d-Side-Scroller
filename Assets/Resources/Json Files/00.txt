@@ -1,0 +1,19 @@
+﻿{
+	"id":0,
+	"questName":"Mummies Everywhere!",
+	"description":"These mummies are annoying. Kill'em and you will get something nice.",
+	"recipent":0,
+	"requiredLevel":0,
+	"reward":
+	{
+		"exp":400.0,
+		"money":0.0,
+		"items":[{"id":2,"amount":1}]
+	},
+	"task":
+	{
+		"talkTo":[],
+		"items":[],
+		"kills":[{"id":1,"amount":1,"initialAmount":0}]}
+}
+

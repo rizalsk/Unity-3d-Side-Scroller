@@ -1,0 +1,27 @@
+﻿{
+	"id":0,
+	"questName":"Mummies Everywhere!",
+	"description":"These mummies are annoying. Kill'em and you will get something nice.",
+	"recipent":0,
+	"requiredLevel":0,
+	"reward":{"exp":100.0,"money":20.0,"items":[]},
+	"task":{"talkTo":[],"items":[],"kills":[{"id":0,"amount":10,"playerCurrent":0}]}
+};
+
+{
+	"id":1,
+	"questName":"Wooden Leg Lumber.",
+	"description":"I ran out of Lumber. It was cold last night so I threw my wooden leg inside the fire place... Now I cannot walk without my leg!. You look strong, would you bring me some wood from the Forest north from here?",
+	"recipent":0,
+	"requiredLevel":0,
+	"reward":{
+			"exp":300.0,
+			"money":10.0,
+			"items":[{"id":3,"amount":1}]
+	},
+	"task":{
+			"talkTo":[],
+			"items":[{"id":1,"amount":10}],
+			"kills":[]
+	}
+}
